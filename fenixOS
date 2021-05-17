@@ -1,0 +1,17 @@
+
+sudo apt-get update
+
+
+
+insatall code
+
+sudo apt-get install code
+
+
+install imager de raspberry
+
+sudo apt-get install rpi-imager
+
+
+
+el programa que monitorea los cpus y memoria y lo muestra en el desktop es conky, y hay algunos shells que ejecuta en la carpeta de tools
